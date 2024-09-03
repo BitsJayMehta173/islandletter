@@ -8,3 +8,5 @@ Developing Compression Ideas with other fields help
 
 
 First Convert book page image to greyscale then convert the image into red and black now use island finding algorithm and scan each letter one by one
+
+# Initiator - Everything starts with Dot ends with Dot 
